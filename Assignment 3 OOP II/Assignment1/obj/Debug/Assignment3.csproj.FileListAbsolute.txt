@@ -1,0 +1,22 @@
+C:\Users\James\Desktop\Assignment_3_final\Assignment 3 OOP II\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\James\Desktop\Assignment_3_final\Assignment 3 OOP II\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\James\Desktop\Assignment_3_final\Assignment 3 OOP II\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\James\Desktop\Assignment_3_final\Assignment 3 OOP II\Assignment1\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\Assignment_3_final\Assignment 3 OOP II\Assignment1\obj\Debug\Assignment1.MainForm.resources
+C:\Users\James\Desktop\Assignment_3_final\Assignment 3 OOP II\Assignment1\obj\Debug\Assignment1.AddEditRecepieForm.resources
+C:\Users\James\Desktop\Assignment_3_final\Assignment 3 OOP II\Assignment1\obj\Debug\Assignment1.Messegebutton.resources
+C:\Users\James\Desktop\Assignment_3_final\Assignment 3 OOP II\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\James\Desktop\Assignment_3_final\Assignment 3 OOP II\Assignment1\obj\Debug\Assignment3.csproj.GenerateResource.Cache
+C:\Users\James\Desktop\Assignment_3_final\Assignment 3 OOP II\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\James\Desktop\Assignment_3_final\Assignment 3 OOP II\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\James\Desktop\Stuff for github\Assignment_3_final (1)\Assignment_3_final\Assignment 3 OOP II\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\James\Desktop\Stuff for github\Assignment_3_final (1)\Assignment_3_final\Assignment 3 OOP II\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\James\Desktop\Stuff for github\Assignment_3_final (1)\Assignment_3_final\Assignment 3 OOP II\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\James\Desktop\Stuff for github\Assignment_3_final (1)\Assignment_3_final\Assignment 3 OOP II\Assignment1\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
+C:\Users\James\Desktop\Stuff for github\Assignment_3_final (1)\Assignment_3_final\Assignment 3 OOP II\Assignment1\obj\Debug\Assignment1.MainForm.resources
+C:\Users\James\Desktop\Stuff for github\Assignment_3_final (1)\Assignment_3_final\Assignment 3 OOP II\Assignment1\obj\Debug\Assignment1.AddEditRecepieForm.resources
+C:\Users\James\Desktop\Stuff for github\Assignment_3_final (1)\Assignment_3_final\Assignment 3 OOP II\Assignment1\obj\Debug\Assignment1.Messegebutton.resources
+C:\Users\James\Desktop\Stuff for github\Assignment_3_final (1)\Assignment_3_final\Assignment 3 OOP II\Assignment1\obj\Debug\Assignment1.Properties.Resources.resources
+C:\Users\James\Desktop\Stuff for github\Assignment_3_final (1)\Assignment_3_final\Assignment 3 OOP II\Assignment1\obj\Debug\Assignment3.csproj.GenerateResource.Cache
+C:\Users\James\Desktop\Stuff for github\Assignment_3_final (1)\Assignment_3_final\Assignment 3 OOP II\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\James\Desktop\Stuff for github\Assignment_3_final (1)\Assignment_3_final\Assignment 3 OOP II\Assignment1\obj\Debug\Assignment1.pdb

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Assignment1.Fisk">
+    <Position X="0.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAQQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Fisk.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment1.Ingrediens">
+    <Position X="2.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAABAAAAAAAAAAAEAAAAAASAAAAAAAAAAACAAAAAAAg=</HashCode>
+      <FileName>Ingrediens.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="m_mesure" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Assignment1.Kött">
+    <Position X="2.5" Y="7" Width="1.5" />
+    <InheritanceLine Type="Assignment1.Recept" FixedToPoint="true">
+      <Path>
+        <Point X="1.25" Y="6.481" />
+        <Point X="1.25" Y="6.7" />
+        <Point X="3.25" Y="6.7" />
+        <Point X="3.25" Y="7" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAACAAAAAA=</HashCode>
+      <FileName>Kött.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.198" />
+  </Class>
+  <Class Name="Assignment1.AddEditRecepieForm" Collapsed="true">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAABACAACAAUBAQdACiAAAHgACGkBEGBKEghAAAAAI=</HashCode>
+      <FileName>AddEditRecepieForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment1.Program" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment1.Recept">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAigAAAMAAAAAEAAEAECAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Recept.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="m_ingridienser" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="Assignment1.ReceptManager">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAIAAAAAAAAAAQAAACAAAAAAAAAABAAAAEA=</HashCode>
+      <FileName>ReceptManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment1.Properties.Resources" Collapsed="true">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Assignment1.Properties.Settings" Collapsed="true">
+    <Position X="9.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Assignment1.iKött" Collapsed="true">
+    <Position X="3.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>iKött.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Assignment1.measurements" Collapsed="true">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIQBAAAAAAAAAAAAAAEIAgAAAAQJBAA=</HashCode>
+      <FileName>measurements.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
